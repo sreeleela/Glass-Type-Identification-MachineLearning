@@ -1,0 +1,8 @@
+conda 4.3.30
+Python 3.6.3
+The above two are used to build the project
+
+open anaconda command prompt, navigate to "code" folder in the project and type the following command
+python RunMe.py
+
+The above command runs the entire project and all the graphs and output can be found in images folder(in code folder).
